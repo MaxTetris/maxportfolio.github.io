@@ -10,6 +10,7 @@ In this repository, you'll find a collection of my projects and contributions th
 - 🕹️ Game Development Student
 - 🎓 Studying at Business College, Helsinki
 - 📧 maxjuicer2@gmail.com
+- 🎮 [Unity Play](https://play.unity.com/u/MaxShogi)
 
 ## What to Expect
 
