@@ -10,12 +10,7 @@ In this repository, you'll find a collection of my projects and contributions th
 - 🕹️ Game Development Student
 - 🎓 Studying at Business College, Helsinki
 - 📧 maxjuicer2@gmail.com
-- 🎮 [Unity Play](https://play.unity.com/u/MaxShogi) (Check out some of my projects here!)
-
-## What to Expect
-
-- **Projects:** Various game development projects showcasing my skills in coding, game design, and project management.
-- **Code Samples:** Snippets of code that highlight my coding style.
+- 🎮 [Unity Play](https://play.unity.com/u/MaxShogi) (Most of my games are posted )
 
 Feel free to explore, clone, or contribute to any of the projects! I'm always eager to learn, improve, and connect with fellow game developers.
 
